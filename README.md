@@ -1,4 +1,5 @@
-# automation
-自动刷视频、点赞、关注、评论，抖音 / 快手 / 小红书 / 等等生效
+# Automation
+Automated video browsing, liking, following, and commenting – works on TikTok, Kuaishou, REDnote, and more.
 
-✈️：@aji_520
+
+✈️: @aji_520  QQ:3311860982
